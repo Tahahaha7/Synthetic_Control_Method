@@ -1,4 +1,4 @@
-# Synthetic_Control_Method
+# Synthetic Control Method
 Comparative Case Studies using SCM
 
 

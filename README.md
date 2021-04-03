@@ -10,6 +10,6 @@ Comparative Case Studies using SCM
     
   
   
-<p align="center"> 
-<img src="https://github.com/Tahahaha7/Synthetic_Control_Method/blob/master/output_14_0.png">
+<p align="right"> 
+<img src="https://github.com/Tahahaha7/Synthetic_Control_Method/blob/master/synth.png">
 </p>
